@@ -1,0 +1,17 @@
+#main-heading {
+  padding: 2% 5%;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 75px;
+  margin-bottom: 0px !important;
+}
+
+#top-of-page {
+  display: flex;
+}
+
+#logo-container {
+  box-sizing: content-box;
+  max-width: 10vw;
+  justify-content: center;
+  align-items: center;
+}
